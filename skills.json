@@ -57,3 +57,33 @@
   "27": "Test design techniques: equivalence classes, boundary values, combinatorial techniques, states and transitions",
   "28": "Python: fundamentals, creating client-server applications"
 }
+{
+  "1": "Basics of testing, SDLC, STLC",
+  "2": "Client-server architecture",
+  "3": "HTTP request methods",
+  "4": "HTTP server response codes",
+  "5": "Structures of HTTP requests and responses",
+  "6": "JSON, XML: data structures",
+  "7": "API testing with Postman",
+  "8": "Capturing and reading logs from an external server",
+  "9": "Sniffing HTTP web traffic with Charles and Fiddler",
+  "10": "Dev Tools in web browsers",
+  "11": "VPN: how it works, why it's needed, tools",
+  "12": "Mobile testing",
+  "13": "iOS, Android specifics and guidelines",
+  "14": "Building iOS apps with XCode",
+  "15": "Building Android apps with Android Studio",
+  "16": "ADB (Android Debug Bridge): managing Android devices",
+  "17": "Setting up proxy and VPN on iOS and Android",
+  "18": "Intercepting (sniffing) mobile traffic with Charles and Fiddler on iOS and Android",
+  "19": "Linux terminal: file operations on servers without a graphical interface",
+  "20": "Basics of Bash scripting, automating routine tasks on servers",
+  "21": "Accessing remote servers",
+  "22": "Basics of SQL: Create, Delete, Drop, Insert Into, Select, From, Where, Join",
+  "23": "Postgres database: installation, configuration, usage",
+  "24": "Redis NoSQL database: installation, configuration, usage",
+  "25": "Load testing with JMeter",
+  "26": "Scrum development methodology",
+  "27": "Test design techniques: equivalence classes, boundary values, combinatorial techniques, states and transitions",
+  "28": "Python: fundamentals, creating client-server applications"
+}
